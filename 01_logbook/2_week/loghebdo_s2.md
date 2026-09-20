@@ -1,4 +1,4 @@
-# Loghebdo S2 — du 14/09 au 19/09
+# Loghebdo S2 — du 14/09 au 20/09
 
 ## Stats
 - Heures cyber : 9h30 sur 4 jours
@@ -14,10 +14,10 @@
 ## Quiz / validation
 - Quiz OpenClassroom partie 2 : 6/8
 - Quiz OpenClassroom (chargement de données) : 5/8
-- Test hebdo : prévu le 20/09, non encore réalisé au moment de la rédaction de ce loghebdo
+- Test hebdo (20/09) : 5/5 à l'oral avec sa mère, 9/10 en solo à l'écrit
 
 ## Ce qui a marché
-Le challenge Root-me du 14/09 (cookie tampering) résolu en autonomie. Le hash du 17/09 cassé rapidement via crackstation. La régularité Anki continue de progresser (13 → 14 → 15 → 15).
+Le challenge Root-me du 14/09 (cookie tampering) résolu en autonomie. Le hash du 17/09 cassé rapidement via crackstation. La régularité Anki continue de progresser (13 → 14 → 15 → 15). Le test hebdo confirme les acquis : 5/5 à l'oral et 9/10 en solo à l'écrit.
 
 ## Ce qui a bloqué
 Doutes récurrents sur la rétention en Python les 17/09 et 19/09 : capacité à résoudre les exercices sans être sûr de savoir créer le code seul, contrairement à la lecture/compréhension qui passe bien.
