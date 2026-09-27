@@ -1,4 +1,4 @@
-# Loghebdo S3 — du 21/09 au 25/09
+# Loghebdo S3 — du 21/09 au 26/09
 
 ## Stats
 - Heures cyber : 11h30 sur 5 jours
@@ -14,16 +14,16 @@
 
 ## Quiz / validation
 - Quiz LetsDefend (modèles de SOC) : 10/13
-- Test hebdo : prévu le 26/09, non encore réalisé au moment de la rédaction de ce loghebdo
+- Test hebdo (26/09) : 5/5 à l'oral avec sa mère, 9/10 en solo à l'écrit
 
 ## Ce qui a marché
-Le XSS stocké du 21/09 résolu en autonomie avec exfiltration de cookie via webhook. Le challenge HTTP - POST du 23/09 résolu facilement via Burp. Apprendre sans prendre de notes fonctionne suffisamment bien (10/13 sur le quiz LetsDefend). Régularité Anki en hausse sur la semaine (14 → 17 → 16 → 18 → 16), avec le meilleur score de la phase à 18/20.
+Le XSS stocké du 21/09 résolu en autonomie avec exfiltration de cookie via webhook. Le challenge HTTP - POST du 23/09 résolu facilement via Burp. Apprendre sans prendre de notes fonctionne suffisamment bien (10/13 sur le quiz LetsDefend). Régularité Anki en hausse sur la semaine (14 → 17 → 16 → 18 → 16), avec le meilleur score de la phase à 18/20. Test hebdo confirmé : 5/5 à l'oral et 9/10 en solo à l'écrit.
 
 ## Ce qui a bloqué
 Léger doute sur le score du quiz LetsDefend (10/13), relativisé au vu de la longueur des questions. Aucun autre blocage marqué sur la semaine.
 
 ## Ajustement pour S4
-Non précisé dans les notes : la dernière entrée (25/09) annonce uniquement le test hebdomadaire pour le 26/09.
+Non précisé dans les notes : la dernière entrée après le test hebdo (26/09) n'indique rien de plus.
 
 ## État général
 5 / 5 (les 5 jours de la semaine notés à 5/5)
