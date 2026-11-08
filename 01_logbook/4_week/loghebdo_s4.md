@@ -1,4 +1,4 @@
-# Loghebdo S4 : du 29/09 au 07/11
+# Loghebdo S4 : du 29/09 au 08/11
 
 ## Stats
 - Heures cyber : 11h sur 4 jours
@@ -15,13 +15,13 @@
 
 ## Quiz / validation
 - Challenge LetsDefend Phishing Email : 5 questions répondues (score non noté)
-- Test hebdo : pas encore noté
+- Test hebdo (08/11) : 9/10 avec sa mère, 7,5/10 en solo
 
 ## Ce qui a marché
-OC passe de mieux en mieux : la logique était bonne le 29/09, moins d'aide le 30/09, et le 07/11 l'exercice sur les variables est d'une facilité déconcertante alors que c'était la galère il y a quelques mois. Meilleur score Anki de la phase à 19/20 le 30/09. Au retour de la pause, tout est encore là ("après un mois sans rien faire, je connais encore tout"). Les attaques DVWA du 03/11 passent sans difficulté ("des choses que j'ai fait 40 fois").
+OC passe de mieux en mieux : la logique était bonne le 29/09, moins d'aide le 30/09, et le 07/11 l'exercice sur les variables est d'une facilité déconcertante alors que c'était la galère il y a quelques mois. Meilleur score Anki de la phase à 19/20 le 30/09. Au retour de la pause, tout est encore là ("après un mois sans rien faire, je connais encore tout"). Les attaques DVWA du 03/11 passent sans difficulté ("des choses que j'ai fait 40 fois"). Test hebdo avec sa mère à 9/10.
 
 ## Ce qui a bloqué
-Le doute sur Python revient ("comme d'hab", 30/09). Un mois sans aucune session entre le 30/09 et le 03/11, avec la peur au retour de ne plus rien savoir, comme si ça ne s'ancrait pas. Anki descend à 14/20 le 03/11, avec l'erreur reconnue de ne pas prendre assez le temps.
+Le doute sur Python revient ("comme d'hab", 30/09). Un mois sans aucune session entre le 30/09 et le 03/11, avec la peur au retour de ne plus rien savoir, comme si ça ne s'ancrait pas. Anki descend à 14/20 le 03/11, avec l'erreur reconnue de ne pas prendre assez le temps. Test hebdo en solo à 7,5/10, en dessous du 9/10 de S2 et S3.
 
 ## Ajustement pour S5
 - OC repris à zéro le 03/11, en refaisant les exercices petit à petit
