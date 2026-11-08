@@ -143,7 +143,7 @@ Exemples :
 
 ---
 
-# Business Email Compromise — BEC
+# Business Email Compromise (BEC)
 
 **BEC** → utiliser des emails qui semblent légitimes pour réaliser une attaque ou une arnaque.
 
@@ -409,7 +409,7 @@ Les mots de passe ne devraient **pas être stockés en plaintext**.
 
 ---
 
-# À RETENIR — SOCIAL ENGINEERING
+# À RETENIR : SOCIAL ENGINEERING
 
 | Technique               | Association                                  |
 | ----------------------- | -------------------------------------------- |
@@ -429,7 +429,7 @@ Les mots de passe ne devraient **pas être stockés en plaintext**.
 | **Typosquatting**       | Fake URL with typo                           |
 | **Pharming**            | DNS / hosts redirection                      |
 
-# EXAM — PASSWORD ATTACKS
+# EXAM : PASSWORD ATTACKS
 
 **Many passwords → one account**  
 → **Brute Force**

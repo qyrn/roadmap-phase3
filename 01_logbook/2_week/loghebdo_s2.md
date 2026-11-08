@@ -1,4 +1,4 @@
-# Loghebdo S2 — du 14/09 au 20/09
+# Loghebdo S2 : du 14/09 au 20/09
 
 ## Stats
 - Heures cyber : 9h30 sur 4 jours

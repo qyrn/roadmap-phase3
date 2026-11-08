@@ -1,4 +1,4 @@
-# Synthèse — Malicious Code
+# Synthèse : Malicious Code
 
 Chaque malware se distingue par son objectif ou son mécanisme de propagation, pas seulement par son comportement (deux malwares peuvent agir pareil mais avoir une intention différente, ex : Spyware vs Bloatware).
 

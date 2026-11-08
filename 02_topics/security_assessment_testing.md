@@ -163,13 +163,13 @@ Ne pas les confondre.
 
 ### Application Testing
 
-**SAST — Static**  
+**SAST (Static)**  
 → Analyse le code **sans l'exécuter**.
 
-**DAST — Dynamic**  
+**DAST (Dynamic)**  
 → Exécute l'application et teste ses interfaces.
 
-**IAST — Interactive**  
+**IAST (Interactive)**  
 → Combine analyse du code + interaction avec l'application.
 
 ### Web Application Scanning
@@ -202,7 +202,7 @@ Outils cités :
 
 ---
 
-# Scan Results — False Positive / False Negative
+# Scan Results : False Positive / False Negative
 
 ### True Positive
 
@@ -367,7 +367,7 @@ Utilisé notamment pour **prioriser les réponses**.
 
 ### Exploitability
 
-**AV — Attack Vector**
+**AV (Attack Vector)**
 
 - **P** → Physical
     
@@ -378,14 +378,14 @@ Utilisé notamment pour **prioriser les réponses**.
 - **N** → Network
     
 
-**AC — Attack Complexity**
+**AC (Attack Complexity)**
 
 - L → Low
     
 - H → High
     
 
-**PR — Privileges Required**
+**PR (Privileges Required)**
 
 - N → None
     
@@ -394,7 +394,7 @@ Utilisé notamment pour **prioriser les réponses**.
 - H → High
     
 
-**UI — User Interaction**
+**UI (User Interaction)**
 
 - N → None
     
@@ -403,22 +403,22 @@ Utilisé notamment pour **prioriser les réponses**.
 
 ### Impact
 
-**C — Confidentiality**
+**C (Confidentiality)**
 
-**I — Integrity**
+**I (Integrity)**
 
-**A — Availability**
+**A (Availability)**
 
 Chaque impact :  
 → N / L / H
 
 ### Scope
 
-**S — Scope**
+**S (Scope)**
 
-- **U — Unchanged**
+- **U (Unchanged)**
     
-- **C — Changed**
+- **C (Changed)**
     
 
 ---
@@ -503,7 +503,7 @@ Le défenseur doit empêcher **toutes les attaques**.
 
 ---
 
-# Rules of Engagement — RoE
+# Rules of Engagement (RoE)
 
 **RoE** → règles définissant précisément comment le pentest doit être effectué.
 
@@ -552,7 +552,7 @@ Puis :
 
 ---
 
-# À RETENIR — SECURITY ASSESSMENT
+# À RETENIR : SECURITY ASSESSMENT
 
 |Concept|Association|
 |---|---|
@@ -578,7 +578,7 @@ Puis :
 |**Telnet**|Replace with SSH|
 |**FTP**|Replace with SFTP/FTPS|
 
-# EXAM — LES PIÈGES À CONNAÎTRE
+# EXAM : LES PIÈGES À CONNAÎTRE
 
 **CVE ≠ CVSS**
 

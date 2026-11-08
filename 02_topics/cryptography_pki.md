@@ -1,6 +1,6 @@
-# Chapter 7 — Cryptography and the PKI
+# Chapter 7 : Cryptography and the PKI
 
-## 1. Cryptography — objectifs
+## 1. Cryptography : objectifs
 
 La **cryptography** sert principalement à protéger :
 
@@ -137,7 +137,7 @@ puis
 
 ---
 
-# 5. EXAM — Symmetric vs Asymmetric
+# 5. EXAM : Symmetric vs Asymmetric
 
 |Symmetric|Asymmetric|
 |---|---|
@@ -167,7 +167,7 @@ Exemple du livre :
 
 # 7. AES
 
-**AES — Advanced Encryption Standard**
+**AES (Advanced Encryption Standard)**
 
 Symmetric + block cipher.
 
@@ -267,7 +267,7 @@ Une **third party** conserve une copie protégée de la clé.
 
 Basé sur la difficulté de **factoring large prime numbers**.
 
-## ECC — Elliptic Curve Cryptography
+## ECC (Elliptic Curve Cryptography)
 
 Basé sur le **elliptic curve discrete logarithm problem**.
 
@@ -410,7 +410,7 @@ Elle ne chiffre pas le message à elle seule.
 
 # 17. HMAC
 
-**HMAC — Hash-Based Message Authentication Code**
+**HMAC (Hash-Based Message Authentication Code)**
 
 → garantit l'**integrity** du message.
 
@@ -480,7 +480,7 @@ Le message peut être caché dans :
 |**Split knowledge**|Multiple people reconstruct key|
 |**Key length**|Longer → harder brute force|
 
-## EXAM — ASSOCIATIONS À CONNAÎTRE
+## EXAM : ASSOCIATIONS À CONNAÎTRE
 
 **1 clé + rapide + gros volume** → **Symmetric**
 

@@ -1,6 +1,6 @@
-# Chapter 6 — Application Security
+# Chapter 6 : Application Security
 
-## 1. SDLC — Software Development Life Cycle
+## 1. SDLC (Software Development Life Cycle)
 
 Le **SDLC** décrit tout le cycle de vie d'un logiciel, de sa conception jusqu'à son retrait. La sécurité doit être intégrée **à chaque étape**, pas ajoutée à la fin.
 
@@ -63,10 +63,10 @@ Sécurité intégrée dans :
 
 ### CI/CD
 
-**CI — Continuous Integration**  
+**CI (Continuous Integration)**  
 → code régulièrement envoyé dans un repository partagé + builds/tests automatisés.
 
-**CD — Continuous Deployment/Delivery**  
+**CD (Continuous Deployment/Delivery)**  
 → changements testés puis déployés automatiquement.
 
 ⚠️ Risque :  
@@ -161,7 +161,7 @@ Protections :
 
 Une injection consiste à faire entrer du **code contrôlé par l'attaquant** dans une application.
 
-## SQL Injection — SQLi
+## SQL Injection (SQLi)
 
 L'attaquant injecte du SQL dans une entrée utilisateur.
 
@@ -287,7 +287,7 @@ Protection :
 
 # 11. Authorization Attacks
 
-## IDOR — Insecure Direct Object Reference
+## IDOR (Insecure Direct Object Reference)
 
 L'application utilise directement un identifiant fourni par l'utilisateur :
 
@@ -332,9 +332,9 @@ Va plus loin :
 
 Deux types :
 
-- **LFI — Local File Inclusion** → fichier local
+- **LFI (Local File Inclusion)** → fichier local
     
-- **RFI — Remote File Inclusion** → fichier distant
+- **RFI (Remote File Inclusion)** → fichier distant
     
 
 ---
@@ -347,7 +347,7 @@ L'attaquant exploite une vulnérabilité pour obtenir des privilèges supérieur
 
 ---
 
-# 14. XSS — Cross-Site Scripting
+# 14. XSS (Cross-Site Scripting)
 
 L'attaquant injecte du **HTML/script** dans une page web.
 
@@ -426,7 +426,7 @@ Envoyer plusieurs fois le même paramètre :
 
 ---
 
-## WAF — Web Application Firewall
+## WAF (Web Application Firewall)
 
 Firewall spécialisé pour les applications web.
 
@@ -538,7 +538,7 @@ Puis :
 
 ---
 
-# 20. Secure Coding — erreurs classiques
+# 20. Secure Coding : erreurs classiques
 
 ### Source Code Comments
 
@@ -635,11 +635,11 @@ Une valeur numérique devient trop grande pour l'espace prévu.
 
 La sécurité dépend de **l'ordre des événements**.
 
-### TOC — Time-of-Check
+### TOC (Time-of-Check)
 
 Moment où le système vérifie une permission.
 
-### TOU — Time-of-Use
+### TOU (Time-of-Use)
 
 Moment où la ressource est réellement utilisée.
 
@@ -652,7 +652,7 @@ Le contrôle est effectué trop tôt.
 Solution :  
 → vérifier les permissions **au moment de chaque requête**, plutôt que conserver une ancienne liste.
 
-### TOE — Target of Evaluation
+### TOE (Target of Evaluation)
 
 Composant/mécanisme évalué pendant le test.
 
@@ -711,7 +711,7 @@ Langages typiques :
 
 ---
 
-# 26. Benefits vs Risks — Automation
+# 26. Benefits vs Risks : Automation
 
 ### Benefits
 
@@ -774,7 +774,7 @@ Le livre indique explicitement que ces listes sont directement liées aux object
 |**Memory leak**|Mémoire non libérée|
 |**SOAR**|Orchestration + automation + response|
 
-## EXAM — ASSOCIATIONS À CONNAÎTRE
+## EXAM : ASSOCIATIONS À CONNAÎTRE
 
 **SQL injection** → malicious SQL dans une entrée  
 **XSS** → script injecté exécuté par le navigateur  

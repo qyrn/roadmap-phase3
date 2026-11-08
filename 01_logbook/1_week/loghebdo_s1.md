@@ -1,9 +1,9 @@
-# Loghebdo S1 — du 07/09 au 12/09
+# Loghebdo S1 : du 07/09 au 12/09
 
 ## Stats
 - Heures cyber : 20h sur 6 jours
 - Jours actifs : 6 / 6
-- Moyenne Anki : 10,8 / 20 (5 jours testés / 6 actifs : 8, 11, 12, 12, 11 — le 07/09 sans test réel faute de temps)
+- Moyenne Anki : 10,8 / 20 (5 jours testés / 6 actifs : 8, 11, 12, 12, 11, le 07/09 sans test réel faute de temps)
 - Test de fin de semaine (oral, avec sa mère) : 10/10
 
 ## Topics couverts

@@ -1,6 +1,6 @@
-# Chapter 8 — Identity and Access Management (IAM)
+# Chapter 8 : Identity and Access Management (IAM)
 
-## 1. Identity and Access Management — IAM
+## 1. Identity and Access Management (IAM)
 
 IAM = gestion des identités et des accès.
 
@@ -17,7 +17,7 @@ Permet de contrôler :
 - Comment ses activités sont surveillées
     
 
-### AAA — Authentication, Authorization, Accounting
+### AAA (Authentication, Authorization, Accounting)
 
 |Concept|Signification|
 |---|---|
@@ -108,7 +108,7 @@ Les principaux protocoles à connaître :
 |TACACS+|AAA et administration réseau|
 |Kerberos|Authentification par tickets|
 
-### EAP — Extensible Authentication Protocol
+### EAP (Extensible Authentication Protocol)
 
 Framework permettant différentes méthodes d'authentification.
 
@@ -123,7 +123,7 @@ Exemples :
 
 → principalement utilisé pour l'authentification réseau, notamment Wi-Fi.
 
-### CHAP — Challenge Handshake Authentication Protocol
+### CHAP (Challenge Handshake Authentication Protocol)
 
 Fonctionne avec un challenge-response :
 
@@ -138,7 +138,7 @@ Fonctionne avec un challenge-response :
 
 CHAP est plus sécurisé que PAP, un ancien protocole d'authentification.
 
-# 4. 802.1X — Network Access Control
+# 4. 802.1X (Network Access Control)
 
 802.1X = contrôle d'accès au réseau.
 
@@ -260,7 +260,7 @@ EXAM :
 
 `KDC = Ticket infrastructure`
 
-# 7. Single Sign-On — SSO
+# 7. Single Sign-On (SSO)
 
 SSO = une seule authentification pour accéder à plusieurs services.
 
@@ -303,7 +303,7 @@ Connexion à Google → accès à Gmail et YouTube sans se reconnecter à chaque
 
 # 8. LDAP
 
-LDAP — Lightweight Directory Access Protocol
+LDAP (Lightweight Directory Access Protocol)
 
 → protocole permettant d'accéder à un annuaire d'utilisateurs et de ressources.
 
@@ -409,7 +409,7 @@ Le site fait confiance à Google pour authentifier l'utilisateur.
 
 OpenID Connect est la technologie moderne d'authentification construite sur OAuth 2.0.
 
-### EXAM — Associations
+### EXAM : Associations
 
 `SAML = XML + Assertions + SSO`
 
@@ -548,7 +548,7 @@ Le NIST recommande notamment :
 
 ⚠️ Les changements périodiques obligatoires ne sont pas toujours recommandés. Ils dépendent de la politique de sécurité et des risques.
 
-### LAN Manager — LM Hash
+### LAN Manager (LM Hash)
 
 Ancien mécanisme Windows de stockage des mots de passe.
 
@@ -598,7 +598,7 @@ Si le coffre est compromis, des identifiants peuvent être exposés.
 
 Exemple du livre :
 
-LastPass — incidents de sécurité en 2022
+LastPass : incidents de sécurité en 2022
 
 Des données de coffres clients et d'autres informations sensibles ont été compromises.
 
@@ -670,7 +670,7 @@ EXAM :
 
 `Private Key = Stays on device`
 
-# 14. Multifactor Authentication — MFA
+# 14. Multifactor Authentication (MFA)
 
 MFA = utiliser plusieurs facteurs d'authentification appartenant à des catégories différentes.
 
@@ -717,7 +717,7 @@ EXAM :
 
 `GPS = Somewhere you are`
 
-# 15. OTP — One-Time Password
+# 15. OTP (One-Time Password)
 
 OTP = mot de passe à usage unique.
 
@@ -834,8 +834,8 @@ Très important pour Security+.
 
 |Métrique|Signification|
 |---|---|
-|FAR — False Acceptance Rate|Un imposteur est accepté|
-|FRR — False Rejection Rate|Un utilisateur légitime est refusé|
+|FAR (False Acceptance Rate)|Un imposteur est accepté|
+|FRR (False Rejection Rate)|Un utilisateur légitime est refusé|
 
 ### FAR
 
@@ -1048,7 +1048,7 @@ EXAM :
 
 `Least Privilege = Minimum required permissions`
 
-# 19. Privileged Access Management — PAM
+# 19. Privileged Access Management (PAM)
 
 PAM = contrôler et sécuriser les comptes privilégiés.
 
@@ -1071,7 +1071,7 @@ Objectifs :
 |Password Vaulting|Coffre-fort d'identifiants privilégiés|
 |Ephemeral Accounts / Credentials|Comptes ou identifiants de courte durée|
 
-### JIT — Just-in-Time
+### JIT (Just-in-Time)
 
 Les permissions sont accordées uniquement lorsqu'elles sont nécessaires.
 
@@ -1140,7 +1140,7 @@ Les modèles de contrôle d'accès déterminent qui peut accéder aux ressources
 |Rule-Based|Contrôle par règles|
 |ABAC|Contrôle par attributs|
 
-## MAC — Mandatory Access Control
+## MAC (Mandatory Access Control)
 
 Les permissions sont définies par une politique de sécurité centrale.
 
@@ -1157,7 +1157,7 @@ Exemples :
 
 MAC = Central authority controls access
 
-## DAC — Discretionary Access Control
+## DAC (Discretionary Access Control)
 
 Le propriétaire d'un fichier décide qui peut y accéder.
 
@@ -1167,7 +1167,7 @@ Un propriétaire Linux attribue des droits de lecture et d'écriture.
 
 DAC = Owner controls access
 
-## RBAC — Role-Based Access Control
+## RBAC (Role-Based Access Control)
 
 Les permissions dépendent du rôle de l'utilisateur.
 
@@ -1208,7 +1208,7 @@ Allow or Deny
 
 Cas typique : règles de pare-feu.
 
-### ACL — Access Control List
+### ACL (Access Control List)
 
 Liste de règles définissant les accès autorisés ou refusés.
 
@@ -1216,7 +1216,7 @@ Liste de règles définissant les accès autorisés ou refusés.
 
 Rule-Based = Rules determine access
 
-## ABAC — Attribute-Based Access Control
+## ABAC (Attribute-Based Access Control)
 
 Les permissions dépendent des attributs associés à l'utilisateur et au contexte.
 
@@ -1276,7 +1276,7 @@ Donner uniquement les permissions nécessaires.
 
 → réduit les conséquences d'une compromission.
 
-### EXAM — Access Control
+### EXAM : Access Control
 
 |Situation|Réponse|
 |---|---|
@@ -1497,7 +1497,7 @@ EXAM :
 |Least Privilege|Minimum Necessary Permissions|
 |chmod|Modify Linux Permissions|
 
-## EXAM — ASSOCIATIONS À CONNAÎTRE
+## EXAM : ASSOCIATIONS À CONNAÎTRE
 
 Vérifier l'identité → Authentication
 

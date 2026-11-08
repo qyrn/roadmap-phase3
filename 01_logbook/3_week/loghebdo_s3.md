@@ -1,4 +1,4 @@
-# Loghebdo S3 — du 21/09 au 26/09
+# Loghebdo S3 : du 21/09 au 26/09
 
 ## Stats
 - Heures cyber : 11h30 sur 5 jours

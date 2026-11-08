@@ -450,7 +450,7 @@ La méthode la plus fiable est souvent :
 
 ---
 
-# À RETENIR — MALWARE
+# À RETENIR : MALWARE
 
 ### Ransomware
 
@@ -502,7 +502,7 @@ La méthode la plus fiable est souvent :
 
 ---
 
-# EXAM — ASSOCIATIONS À CONNAÎTRE
+# EXAM : ASSOCIATIONS À CONNAÎTRE
 
 **Fichiers chiffrés + demande de rançon**  
 → **Ransomware**
@@ -1033,7 +1033,7 @@ Autres techniques :
 
 ---
 
-# À RETENIR — MALWARE
+# À RETENIR : MALWARE
 
 |Malware|Association|
 |---|---|
@@ -1051,7 +1051,7 @@ Autres techniques :
 |**Logic Bomb**|Condition → malicious action|
 |**Rootkit**|Hide + maintain access|
 
-# EXAM — ASSOCIATIONS À CONNAÎTRE
+# EXAM : ASSOCIATIONS À CONNAÎTRE
 
 **Files encrypted + ransom demand**  
 → **Ransomware**

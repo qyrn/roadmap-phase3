@@ -1,4 +1,4 @@
-# Loghebdo S4 — du 29/09 au 07/11
+# Loghebdo S4 : du 29/09 au 07/11
 
 ## Stats
 - Heures cyber : 11h sur 4 jours

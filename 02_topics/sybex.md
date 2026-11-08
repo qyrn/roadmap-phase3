@@ -1,4 +1,4 @@
-# Sybex — CompTIA Security+ (Chapitres 1 et 2)
+# Sybex : CompTIA Security+ (Chapitres 1 et 2)
 
 # Cybersecurity Objectives
 
